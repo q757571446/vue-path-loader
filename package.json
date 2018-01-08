@@ -1,0 +1,21 @@
+{
+  "name": "vue-path-loader",
+  "version": "1.0.0",
+  "description": "inject __path in vue component",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/q757571446/vue-path-loader.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/q757571446/vue-path-loader/issues"
+  },
+  "homepage": "https://github.com/q757571446/vue-path-loader#readme"
+}
