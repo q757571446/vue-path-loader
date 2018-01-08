@@ -1,7 +1,7 @@
 {
   "name": "vue-path-loader",
-  "version": "1.0.0",
-  "description": "inject __path in vue component",
+  "version": "1.0.2",
+  "description": "inject path in vue component",
   "main": "index.js",
   "scripts": {
   },
